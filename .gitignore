@@ -1,0 +1,28 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+static/
+*.log
+*.pot
+*.pyo
+*.swp
+
+# Environment Variables
+.env
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependency directories
+venv/
+env/
+node_modules/
